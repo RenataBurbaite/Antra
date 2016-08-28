@@ -1,0 +1,9 @@
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\bin\Debug\LD5.exe.config
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.csprojResolveAssemblyReference.cache
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.Form1.resources
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.Properties.Resources.resources
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.csproj.GenerateResource.Cache
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\bin\Debug\LD5.exe
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\bin\Debug\LD5.pdb
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.exe
+C:\Users\Renata\Desktop\Deividas_Kacas_LD5\LD5\LD5\obj\Debug\LD5.pdb

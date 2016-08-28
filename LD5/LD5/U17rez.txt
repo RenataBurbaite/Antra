@@ -1,0 +1,85 @@
+﻿
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis           
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis Puseles single 2 Puseles single
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis Puseles single 2 Puseles single
+Jonaitis Pajurio single 2 Pajurio single
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis Puseles single 2
+Jonaitis Pajurio single 2
+--------------------------------------------------
+
+Viešbučių sąrašas
+--------------------------------------------------
+| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Puseles single 2
+Pajurio single 2
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis Puseles single Puseles
+Jonaitis Pajurio single Pajurio
+--------------------------------------------------
+
+Viešbučių sąrašas
+--------------------------------------------------
+| Viešbutis | Tipas | Kaina
+--------------------------------------------------
+Puseles single Puseles
+Pajurio single Pajurio
+--------------------------------------------------
+
+Keliautojų sąrašas
+--------------------------------------------------
+| Pavarde| Viešbutis | Tipas | Nakvynės
+--------------------------------------------------
+Petraitis Puseles single 0
+Jonaitis Pajurio single 0
+--------------------------------------------------
+
+Viešbučių sąrašas
+--------------------------------------------------
+| Viešbutis | Tipas | Kaina
+--------------------------------------------------
+Puseles single Puseles single
+Pajurio single Pajurio single
+--------------------------------------------------
+
